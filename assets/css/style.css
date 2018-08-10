@@ -1,5 +1,19 @@
 @import url('https://fonts.googleapis.com/css?family=Work+Sans:100,200,300,400,500,600,700,800,900|Roboto:100,200,300,400,500,600,700,800,900');
 
+/*-------------------------------------------------bg-color*/
+
+.bg-section {
+    background-color: #252525;
+}
+
+.bg-footer {
+    background-color: #CD5C5C;
+}
+
+.bg-jumbotron {
+    background-color: #252525;
+}
+
 /*-------------------------------------------------Header*/
 
 .container-header {
@@ -33,7 +47,7 @@
     
 .navbar-default .navbar-nav li a {
     padding: 10px 15px;
-    font-family: "Work+Sans", sans-serif;
+    font-family: "Work+Sans", serif;
     font-weight: 400;
     font-size: 15px;
     color: #fafafa;
@@ -41,9 +55,9 @@
 
 .navbar-default .navbar-nav li a:hover {
     padding: 10px 15px;
-    font-family: "Work+Sans", sans-serif;
+    font-family: "Work+Sans", serif;
     font-weight: 400;
-    font-size: 17px;
+    font-size: 15px;
     color: #CD5C5C;
     transition: 0.3s ease-in-out;
 }
@@ -65,12 +79,11 @@
     box-shadow: 0 0 1px rgba(0, 0, 0, 0);
     backface-visibility: hidden;
     -moz-osx-font-smoothing: grayscale;
-    transition-duration: 0.5s;
     transition-property: transform;
-    transition: ease-in-out;
+    transition: 0.3s ease-in-out;
 }
 
-.hvr-underline-reveal:before {
+.hvr-underline-reveal:before{
     background: #CD5C5C;
 }
 
@@ -85,6 +98,20 @@
 
 .navbar-default .navbar-toggle .icon-bar {
     background-color: #fafafa;
+}
+
+/*-------------------------------------------------Section home*/
+
+.container-wrapped h1 {
+    font-family: "Work+Sans", serif;
+    font-weight: 300;
+    color: #CD5C5C;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.button {
+    text-align: center
 }
 
 /*-------------------------------------------------Media*/
