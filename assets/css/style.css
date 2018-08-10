@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Work+Sans:100,200,300,400,500,600,700,800,900|Roboto:100,200,300,400,500,600,700,800,900');
+
+/*-------------------------------------------------Header*/
+
+.container-header {
+    margin: 0;
+    padding: 0;
+    background-image: url("../images/monkees.jpg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 730px;
+    width: 100%;
+}
+
+/*Nav----------------------------------------------------*/
+
+.navbar {
+    background-color: transparent;
+    border: none;
+}
+
+
