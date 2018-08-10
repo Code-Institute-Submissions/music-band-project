@@ -20,4 +20,28 @@
     border: none;
 }
 
+.navbar-toggle {
+    border: none;
+}
 
+.navbar-default .navbar-toggle:hover {
+    background-color: transparent;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fafafa;
+}
+
+/*-------------------------------------------------Media*/
+
+@media screen and (max-width: 768px) {
+    .navbar {
+        background-color: rgba(12,12,12,0.8);
+    }
+}
+@media (min-width: 768px) {
+    .navbar-nav {
+        float: none;
+        text-align: center;
+    }
+}
