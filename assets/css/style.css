@@ -3,7 +3,7 @@
 /*-------------------------------------------------bg-color*/
 
 .bg-section {
-    background-color: #252525;
+    background-color: #585858;
 }
 
 .bg-footer {
@@ -11,7 +11,7 @@
 }
 
 .bg-jumbotron {
-    background-color: #252525;
+    background-color: rgb(37, 37, 37, 0.4);
 }
 
 /*-------------------------------------------------Header*/
@@ -50,7 +50,7 @@
     font-family: "Work+Sans", serif;
     font-weight: 400;
     font-size: 15px;
-    color: #fafafa;
+    color: #cfcfcf;
 }
 
 .navbar-default .navbar-nav li a:hover {
@@ -60,6 +60,9 @@
     font-size: 15px;
     color: #CD5C5C;
     transition: 0.3s ease-in-out;
+    -webkit-transition: 0.3s ease-in-out;
+    -moz-transition: 0.3s ease-in-out;
+    -o-transition: 0.3s ease-in-out;
 }
 
 .navbar-default .navbar-nav .active a {
@@ -81,6 +84,9 @@
     -moz-osx-font-smoothing: grayscale;
     transition-property: transform;
     transition: 0.3s ease-in-out;
+    -webkit-transition: 0.3s ease-in-out;
+    -moz-transition: 0.3s ease-in-out;
+    -o-transition: 0.3s ease-in-out;
 }
 
 .hvr-underline-reveal:before{
@@ -102,17 +108,32 @@
 
 /*-------------------------------------------------Section home*/
 
-.container-wrapped h1 {
+h1 {
     font-family: "Work+Sans", serif;
     font-weight: 300;
+    font-size: 60px;
     color: #CD5C5C;
     text-align: center;
     text-transform: capitalize;
+    
+}
+
+p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    color: #cfcfcf;
+    text-align: left;
 }
 
 .button {
-    text-align: center
+    text-align: center;
 }
+
+img {
+    width: 100%;
+    height: auto;
+}
+
 
 /*-------------------------------------------------Media*/
 
