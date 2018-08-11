@@ -139,6 +139,21 @@ iframe {
     width: 100%;
 }
 
+/*Jumbotron---------------------------------------------------*/
+
+.jumbotron h1 {
+    color: #CD5C5C
+}
+
+.jumbotron p {
+    color: #cfcfcf;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.jumbotron p {
+    text-align: center;
+}
 
 /*-------------------------------------------------Media*/
 
