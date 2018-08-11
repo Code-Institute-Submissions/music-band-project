@@ -135,6 +135,11 @@ img {
 }
 
 
+iframe {
+    width: 100%;
+}
+
+
 /*-------------------------------------------------Media*/
 
 @media screen and (max-width: 768px) {
