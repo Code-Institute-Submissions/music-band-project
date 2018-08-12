@@ -183,6 +183,13 @@ iframe {
     background-color: #cfcfcf;
 }
 
+/*Suscribe form---------------------------------------------------*/
+
+.jumbotron .suscribe{
+    margin: auto;
+    width: 50%;
+}
+
 /*-------------------------------------------------Media*/
 
 @media screen and (max-width: 768px) {
