@@ -130,7 +130,7 @@ p {
 }
 
 img {
-    width: 100%;
+    max-width: 100%;
     height: auto;
 }
 
@@ -149,9 +149,10 @@ iframe {
     color: #cfcfcf;
     font-size: 14px;
     font-weight: 700;
+    text-align: center;
 }
 
-.jumbotron p {
+.jumbotron .album-cover {
     text-align: center;
 }
 
