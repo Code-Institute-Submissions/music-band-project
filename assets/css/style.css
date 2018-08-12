@@ -141,6 +141,10 @@ iframe {
 
 /*Jumbotron---------------------------------------------------*/
 
+.jumbotron {
+    font-family: "Work+Sans", serif;
+}
+
 .jumbotron h1 {
     color: #CD5C5C
 }
@@ -154,6 +158,29 @@ iframe {
 
 .jumbotron .album-cover {
     text-align: center;
+}
+
+/*Table---------------------------------------------------*/
+
+.table {
+    border-color: #cfcfcf;
+    color: #cfcfcf;
+}
+
+.table a {
+    color: #CD5C5C;
+    font-weight: 600;
+    text-transform: uppercase
+}
+
+.table a:hover {
+    color: #cfcfcf;
+    text-decoration: none;
+}
+
+.table tbody tr th {
+    color: rgb(37, 37, 37, 0.4);
+    background-color: #cfcfcf;
 }
 
 /*-------------------------------------------------Media*/
