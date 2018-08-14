@@ -173,6 +173,7 @@ audio {
 
 .btn {
     margin-top: 20px;
+    font-family: "work+Sans", serif;
     background-color: #CD5C5C;
     color: #cfcfcf;
     border: none;
@@ -216,7 +217,14 @@ audio {
 
 .form-group {
     margin: 0;
-    
+}
+
+form {
+    text-align: center;
+}
+
+.btn-default {
+    margin-bottom: 15px;
 }
 
 /*-------------------------------------------------Media*/
