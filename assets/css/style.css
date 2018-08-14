@@ -111,11 +111,14 @@
 h1 {
     font-family: "Work+Sans", serif;
     font-weight: 300;
-    font-size: 60px;
     color: #CD5C5C;
     text-align: center;
     text-transform: capitalize;
     
+}
+
+.container-wrapped h1 {
+    font-size: 60px;
 }
 
 p {
