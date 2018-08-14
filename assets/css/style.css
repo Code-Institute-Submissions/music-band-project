@@ -157,6 +157,7 @@ audio {
 
 .jumbotron h1 {
     color: #CD5C5C;
+    margin: 10px 0;
 }
 
 .jumbotron p {
@@ -213,9 +214,9 @@ audio {
 
 /*Suscribe form---------------------------------------------------*/
 
-.jumbotron .suscribe {
-    margin: auto;
-    width: 50%;
+.form-group {
+    margin: 0;
+    
 }
 
 /*-------------------------------------------------Media*/
