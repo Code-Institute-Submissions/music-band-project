@@ -220,6 +220,9 @@ audio {
 
 .form-group {
     margin: 0;
+    display: block;
+    width: 50%;
+    margin: auto;
 }
 
 form {
@@ -236,7 +239,7 @@ form {
     .navbar {
         background-color: rgba(12,12,12,0.8);
     }
-    .jumbotron .suscribe {
+    .form-group {
         width: 100%;
     }
 }
