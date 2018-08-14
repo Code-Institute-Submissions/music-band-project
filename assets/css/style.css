@@ -142,16 +142,14 @@ iframe {
     margin: 0;
 }
 
-.container-wrapped p .button {
-    
-}
-
-.button {
+.container-wrapped .button {
+    margin-bottom: 30px;
     text-align: center;
-    
 }
 
-
+audio {
+    width: 100%;
+}
 
 
 /*Jumbotron---------------------------------------------------*/
@@ -182,6 +180,15 @@ iframe {
     color: #cfcfcf;
     border: none;
     text-transform: capitalize;
+    transition: 0.3s ease-in-out;
+    -webkit-transition: 0.3s ease-in-out;
+    -moz-transition: 0.3s ease-in-out;
+    -o-transition: 0.3s ease-in-out;
+}
+
+.btn:hover {
+    background-color: #5ccd5c;
+    color: #cfcfcf;
 }
 
 /*Table---------------------------------------------------*/
