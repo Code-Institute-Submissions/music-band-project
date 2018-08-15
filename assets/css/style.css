@@ -7,7 +7,7 @@
 }
 
 .bg-footer {
-    background-color: #CD5C5C;
+    background-color: #444444;
 }
 
 .bg-jumbotron {
@@ -177,6 +177,7 @@ audio {
 .btn {
     margin-top: 20px;
     font-family: "work+Sans", serif;
+    font-weight: 700;
     background-color: #CD5C5C;
     color: #cfcfcf;
     border: none;
