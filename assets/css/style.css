@@ -277,6 +277,13 @@ footer h1 {
     width: 100%;
 }
 
+.members p {
+    font-family: "Work+Sans", serif;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 5px;
+}
+
 
 
 /*-------------------------------------------------Media*/
