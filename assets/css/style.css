@@ -202,13 +202,17 @@ audio {
 }
 
 .table a {
-    color: #CD5C5C;
+    color: #cfcfcf;
     font-weight: 600;
-    text-transform: uppercase
+    text-transform: uppercase;
+    transition: 0.3s ease-in-out;
+    -webkit-transition: 0.3s ease-in-out;
+    -moz-transition: 0.3s ease-in-out;
+    -o-transition: 0.3s ease-in-out;    
 }
 
 .table a:hover {
-    color: #cfcfcf;
+    color: #CD5C5C;
     text-decoration: none;
 }
 
