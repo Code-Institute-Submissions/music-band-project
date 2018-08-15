@@ -263,6 +263,16 @@ footer h1 {
 .social-media a:hover {
     color: #CD5C5C;
 }
+
+/*-------------------------------------------------Pages*/
+
+/*Band-------------------------------------------------*/
+
+.top-left {
+    float: left;
+    margin: 0 15px 10px 0;
+}
+
 /*-------------------------------------------------Media*/
 
 @media screen and (max-width: 768px) {
