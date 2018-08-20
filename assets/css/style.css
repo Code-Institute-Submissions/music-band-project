@@ -343,6 +343,19 @@ footer h1 {
     background-color: #cfcfcf;
 }
 
+/*Video-------------------------------------------------*/
+
+.container-video {
+    margin-bottom: 20px;
+    padding-bottom: 15px;
+    background-color: #444444;
+}
+
+.container-video h3 {
+    color: #cfcfcf;
+    font-family: "Work+Sans", serif;
+}
+
 /*-------------------------------------------------Media*/
 
 @media screen and (max-width: 767px) {
