@@ -178,7 +178,7 @@ audio {
     text-align: center;
 }
 
-.btn {
+.btn-primary {
     margin-top: 20px;
     font-family: "work+Sans", serif;
     font-weight: 700;
@@ -193,8 +193,8 @@ audio {
 }
 
 .btn:hover {
-    background-color: #5ccd5c;
-    color: #cfcfcf;
+    background-color: #cfcfcf;
+    color: #444444;
 }
 
 /*Table---------------------------------------------------*/
@@ -212,7 +212,8 @@ audio {
     transition: 0.3s ease-in-out;
     -webkit-transition: 0.3s ease-in-out;
     -moz-transition: 0.3s ease-in-out;
-    -o-transition: 0.3s ease-in-out;    
+    -o-transition: 0.3s ease-in-out;
+    display: block;
 }
 
 .table a:hover {
@@ -290,13 +291,17 @@ footer h1 {
 
 /*Music-------------------------------------------------*/
 
+.bg-albums {
+    margin-bottom: 20px;
+}
+
 .audio-section {
     margin-bottom: 30px;
     padding-bottom: 15px;
 }
 
 .album-section {
-    margin-bottom: 15px;
+    padding-bottom: 20px;
 }
 
 .albums {
@@ -316,7 +321,27 @@ footer h1 {
     margin: 15px 15px 15px 0;
 }
 
+.text-center {
+    margin: 0 auto;
+}
 
+.btn-sm {
+    margin: 0;
+    font-family: "work+Sans", serif;
+    font-weight: 700;
+    background-color: #CD5C5C;
+    color: #cfcfcf;
+    border: none;
+    text-transform: capitalize;
+    transition: 0.3s ease-in-out;
+    -webkit-transition: 0.3s ease-in-out;
+    -moz-transition: 0.3s ease-in-out;
+    -o-transition: 0.3s ease-in-out;
+}
+
+.btn-sm:hover {
+    background-color: #cfcfcf;
+}
 
 /*-------------------------------------------------Media*/
 
@@ -330,6 +355,10 @@ footer h1 {
     .albums img {
         width: 100%;
         height: auto;
+    }
+    .albums .btn-lg {
+        margin-top: 0;
+        margin-bottom: 15px;
     }
 }
 
