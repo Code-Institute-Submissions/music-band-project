@@ -235,10 +235,6 @@ form {
     text-align: center;
 }
 
-.btn-default {
-    margin-bottom: 15px;
-}
-
 /*-------------------------------------------------Footer*/
 
 footer h1 {
@@ -350,6 +346,20 @@ footer h1 {
     color: #cfcfcf;
     font-family: "Work+Sans", serif;
 }
+
+/*Shows-------------------------------------------------*/
+/*Photos-------------------------------------------------*/
+/*Contact-------------------------------------------------*/
+
+.contact-form {
+    margin-bottom: 15px;
+}
+
+.form-group {
+    margin-bottom: 5px;
+}
+
+
 
 /*-------------------------------------------------Media*/
 
