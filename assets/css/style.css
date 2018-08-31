@@ -49,15 +49,26 @@
 
 /*-------------------------------------------------Header*/
 
-.container-header {
+.container-header-home {
     margin: 0;
     padding: 0;
-    background-image: url("../images/monkees.jpg");
+    background-image: url("../images/background2.jpg");
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 730px;
     width: 100%;
+}
+
+.container-header-pages {
+    margin: 0;
+    padding: 0;
+    background-image: url("../images/27047750375_35decdb43c.jpg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    min-height: 350px;
 }
 
 /*Nav----------------------------------------------------*/
@@ -377,6 +388,11 @@ form {
     .albums .btn-lg {
         margin-top: 0;
         margin-bottom: 15px;
+    }
+    .bg-img {
+        background-image: url("../images/monkees-logo.png");
+        width: 100%;
+        min-height: 300px;
     }
 }
 
