@@ -20,7 +20,31 @@
 
 /*-------------------------------------------------h / p style*/
 
+.h1-main {
+    font-family: "Work+Sans", serif;
+    font-weight: 500;
+    text-align: center;
+    text-transform: capitalize;
+}
 
+.h1-footer {
+    font-family: "Work+Sans", serif;
+    font-weight: 500;
+    color: #cfcfcf;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.p-main {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    color: #cfcfcf;
+    text-align: left;
+}
+
+.p-button {
+    text-align: center;
+}
 
 /*-------------------------------------------------Header*/
 
@@ -116,23 +140,6 @@
 
 /*-------------------------------------------------Section home*/
 
-h1 {
-    font-family: "Work+Sans", serif;
-    font-weight: 300;
-    color: #CD5C5C;
-    text-align: center;
-    text-transform: capitalize;
-    
-}
-
-p {
-    font-family: "Roboto", sans-serif;
-    font-weight: 700;
-    color: #cfcfcf;
-    text-align: left;
-}
-
-
 img {
     max-width: 100%;
     height: auto;
@@ -141,18 +148,6 @@ img {
 
 /*welcome-------------------------------------------------*/
 
-.container-wrapped p {
-    margin: 0;
-}
-
-.container-wrapped .button {
-    margin-bottom: 30px;
-    text-align: center;
-}
-
-audio {
-    width: 100%;
-}
 
 
 /*Jumbotron---------------------------------------------------*/
@@ -162,12 +157,7 @@ audio {
     padding: 10px 0;
 }
 
-.jumbotron h1 {
-    color: #CD5C5C;
-    margin: 10px 0;
-}
-
-.jumbotron p {
+.jumbotron .p-main {
     color: #cfcfcf;
     font-size: 14px;
     font-weight: 700;
@@ -229,10 +219,9 @@ audio {
 /*Suscribe form---------------------------------------------------*/
 
 .form-group {
-    margin: 0;
+    margin: auto;
     display: block;
     width: 50%;
-    margin: auto;
 }
 
 form {
@@ -240,10 +229,6 @@ form {
 }
 
 /*-------------------------------------------------Footer*/
-
-footer h1 {
-    color: #cfcfcf;
-}
 
 .social-media {
     text-align: center;
