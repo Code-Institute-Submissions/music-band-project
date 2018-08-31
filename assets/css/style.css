@@ -46,6 +46,7 @@
     text-align: center;
 }
 
+
 /*-------------------------------------------------Header*/
 
 .container-header {
@@ -64,6 +65,12 @@
 .navbar {
     background-color: transparent;
     border: none;
+}
+
+.navbar-brand {
+    font-family: "Work+Sans", serif;
+    font-weight: 900;
+    text-transform: uppercase;
 }
 
 
@@ -136,6 +143,10 @@
 
 .navbar-default .navbar-toggle .icon-bar {
     background-color: #fafafa;
+}
+
+.navbar-default .navbar-brand {
+    color: #cfcfcf;
 }
 
 /*-------------------------------------------------Section home*/
