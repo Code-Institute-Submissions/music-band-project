@@ -171,7 +171,6 @@ img {
 /*welcome-------------------------------------------------*/
 
 
-
 /*Jumbotron---------------------------------------------------*/
 
 .jumbotron {
@@ -393,6 +392,9 @@ form {
         background-image: url("../images/monkees-logo.png");
         width: 100%;
         min-height: 300px;
+    }
+    .player {
+    width: 100%;
     }
 }
 
