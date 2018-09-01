@@ -27,6 +27,13 @@
     text-transform: capitalize;
 }
 
+.h1-second {
+    font-family: "Work+Sans", serif;
+    font-weight: 500;
+    text-align: center;
+    text-transform: capitalize; 
+}
+
 .h1-footer {
     font-family: "Work+Sans", serif;
     font-weight: 500;
@@ -36,6 +43,13 @@
 }
 
 .p-main {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    color: #cfcfcf;
+    text-align: left;
+}
+
+.p-second {
     font-family: "Roboto", sans-serif;
     font-weight: 700;
     color: #cfcfcf;
@@ -208,33 +222,10 @@ img {
     color: #444444;
 }
 
-/*Table---------------------------------------------------*/
+/*shows---------------------------------------------------*/
 
-.table {
-    border-color: #cfcfcf;
-    color: #cfcfcf;
-    margin-bottom: 0;
-}
-
-.table a {
-    color: #cfcfcf;
-    font-weight: 600;
-    text-transform: uppercase;
-    transition: 0.3s ease-in-out;
-    -webkit-transition: 0.3s ease-in-out;
-    -moz-transition: 0.3s ease-in-out;
-    -o-transition: 0.3s ease-in-out;
-    display: block;
-}
-
-.table a:hover {
-    color: #CD5C5C;
-    text-decoration: none;
-}
-
-.table tbody tr th {
-    color: #444444;
-    background-color: #cfcfcf;
+.shows {
+    background-color: 
 }
 
 /*Suscribe form---------------------------------------------------*/
@@ -358,6 +349,11 @@ form {
 }
 
 /*Shows-------------------------------------------------*/
+
+.show-page {
+    margin-top: 20px;
+}
+
 /*Photos-------------------------------------------------*/
 /*Contact-------------------------------------------------*/
 
