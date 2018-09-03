@@ -42,18 +42,22 @@
     text-transform: capitalize;
 }
 
-.p-main {
+.p-center {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    color: #212121;
+    text-align: center;
+}
+
+.p-left {
     font-family: "Roboto", sans-serif;
     font-weight: 700;
     color: #212121;
     text-align: left;
 }
 
-.p-second {
-    font-family: "Roboto", sans-serif;
-    font-weight: 700;
-    color: #212121;
-    text-align: left;
+.p-right {
+    
 }
 
 .p-button {
@@ -197,6 +201,18 @@ img {
 
 /*welcome-------------------------------------------------*/
 
+.welcome-img {
+    width: 100%;
+    height: auto;
+}
+
+.player {
+    width: 100%;
+}
+
+.player-block {
+    float: left;
+}
 
 /*Jumbotron---------------------------------------------------*/
 
@@ -205,11 +221,20 @@ img {
     padding: 10px 0;
 }
 
-.jumbotron .p-main {
+.jumbotron .p-left {
+    margin-bottom: 0;
     color: #212121;
     font-size: 16px;
     font-weight: 300;
-    text-align: center;
+    text-align: left;
+}
+
+.jumbotron .p-right {
+    color: #212121;
+    font-size: 16px;
+    font-weight: 300;
+    text-align: right;
+    font-style: italic;
 }
 
 .jumbotron .album-cover {
