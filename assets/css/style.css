@@ -113,9 +113,10 @@ body {
 
 
 .navbar .navbar-nav {
+    height: 100%;
     display: inline-block;
+    vertical-align: middle;
     float: none;
-    
 }
 
 .navbar .navbar-collapse {
@@ -123,7 +124,7 @@ body {
 }
     
 .navbar-default .navbar-nav li a {
-    padding: 10px 15px;
+    
     font-family: "Work+Sans", serif;
     font-weight: 400;
     font-size: 18px;
@@ -131,7 +132,6 @@ body {
 }
 
 .navbar-default .navbar-nav li a:hover {
-    padding: 10px 15px;
     font-family: "Work+Sans", serif;
     font-weight: 400;
     font-size: 18px;
