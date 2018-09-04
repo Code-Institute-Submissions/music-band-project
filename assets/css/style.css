@@ -42,6 +42,13 @@
     text-transform: capitalize;
 }
 
+.h3-main {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    color: #212121;
+    text-align: center;
+}
+
 .p-center {
     font-family: "Roboto", sans-serif;
     font-weight: 700;
@@ -54,10 +61,6 @@
     font-weight: 700;
     color: #212121;
     text-align: left;
-}
-
-.p-right {
-    
 }
 
 .p-button {
@@ -198,6 +201,7 @@ body {
 .album-cover {
     max-width: 100%;
     height: auto;
+    text-align: center;
 }
 
 
@@ -246,6 +250,8 @@ body {
 
 .jumbotron .album-cover {
     text-align: center;
+    width: 100%;
+    height: auto;
 }
 
 .btn-primary {
@@ -334,55 +340,12 @@ form {
 
 /*Music-------------------------------------------------*/
 
-.bg-albums {
-    margin-bottom: 10px;
+.music-block {
+    margin: 10px 0;
 }
 
-.audio-section {
-    margin-bottom: 15px;
-}
-
-.album-section {
-    padding-bottom: 20px;
-}
-
-.albums {
-    margin: 0;
-    padding: 0;
-    vertical-align: top;
-}
-
-.albums h3 {
-    color: #cfcfcf;
-}
-
-.albums img {
-    width: 250px;
-    height: auto;
-    float: left;
-    margin: 15px 15px 15px 0;
-}
-
-.text-center {
-    margin: 0 auto;
-}
-
-.btn-sm {
-    margin: 0;
-    font-family: "work+Sans", serif;
-    font-weight: 700;
-    background-color: #CD5C5C;
-    color: #cfcfcf;
-    border: none;
-    text-transform: capitalize;
-    transition: 0.3s ease-in-out;
-    -webkit-transition: 0.3s ease-in-out;
-    -moz-transition: 0.3s ease-in-out;
-    -o-transition: 0.3s ease-in-out;
-}
-
-.btn-sm:hover {
-    background-color: #cfcfcf;
+.p-button-music {
+    margin-bottom: 20px;
 }
 
 /*Video-------------------------------------------------*/
