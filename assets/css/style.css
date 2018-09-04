@@ -278,6 +278,13 @@ form {
     text-align: center;
 }
 
+.subscribe-msg {
+    font-size: 18px;
+    text-align: center;
+    background-color: #83201b;
+    color: #fafafa;
+}
+
 /*-------------------------------------------------Footer*/
 
 .social-media {
@@ -448,3 +455,4 @@ form {
         padding-right: 45px;
     }
 }
+
