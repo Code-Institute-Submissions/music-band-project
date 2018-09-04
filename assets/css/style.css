@@ -49,6 +49,13 @@
     text-align: center;
 }
 
+.h3-video {
+    color: #212121;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    
+}
+
 .p-center {
     font-family: "Roboto", sans-serif;
     font-weight: 700;
@@ -354,11 +361,6 @@ form {
     background-color: #fafafa;
     margin-bottom: 20px;
     padding-bottom: 15px;
-}
-
-.container-video h3 {
-    color: #212121;
-    font-family: "Work+Sans", serif;
 }
 
 /*Shows-------------------------------------------------*/
