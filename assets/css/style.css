@@ -65,16 +65,9 @@
 
 .p-center {
     font-family: "Roboto", sans-serif;
-    font-weight: 700;
+    font-weight: 400;
     color: #212121;
     text-align: center;
-}
-
-.p-left {
-    font-family: "Roboto", sans-serif;
-    font-weight: 700;
-    color: #212121;
-    text-align: left;
 }
 
 .p-button {
@@ -390,13 +383,12 @@ form {
 
 .form-group {
     margin-bottom: 5px;
+    text-align: center;
 }
-
-
 
 /*-------------------------------------------------Media*/
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 667px) {
     .navbar {
         background-color: rgba(12,12,12,0.8);
     }
@@ -424,7 +416,7 @@ form {
         -o-background-size: 100%;
     }
     .player {
-    width: 100%;
+        width: 100%;
     }
     .top-left {
         width: 100%;
