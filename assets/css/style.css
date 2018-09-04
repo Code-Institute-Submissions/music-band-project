@@ -63,6 +63,13 @@
     margin-bottom: 20px;
 }
 
+.p-left {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    color: #212121;
+    text-align: left;
+}
+
 .p-center {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
