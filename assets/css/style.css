@@ -224,6 +224,7 @@ body {
 .welcome-img {
     width: 100%;
     height: auto;
+    margin-bottom: 10px;
 }
 
 .player {
@@ -238,6 +239,7 @@ body {
 
 .jumbotron {
     font-family: "Work+Sans", serif;
+    margin: 10px;
     padding: 10px 0;
 }
 
@@ -250,6 +252,7 @@ body {
 }
 
 .jumbotron .p-right {
+    margin: 0;
     color: #212121;
     font-size: 16px;
     font-weight: 300;
@@ -397,12 +400,13 @@ form {
 
 @media screen and (max-width: 667px) {
     .navbar {
-        background-color: rgba(12,12,12,0.8);
+        background-color: transparent;
+        margin: 0;
     }
     .form-group {
         width: 100%;
     }
-    .albums img {
+    .album-cover img {
         width: 100%;
         height: auto;
     }
@@ -413,14 +417,9 @@ form {
     .bg-img {
         margin: 0;
         padding: 0;
-        height: 50%;
-        background-image: url("https://i.imgur.com/nvl8K0G.jpg?1");
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: 100%;
-        -webkit-background-size: 100%;
-        -moz-background-size: 100%;
-        -o-background-size: 100%;
+        height: auto;
+        background-image: none;
+        background-color: #212121;
     }
     .player {
         width: 100%;
