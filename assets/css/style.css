@@ -339,6 +339,14 @@ form {
 
 /*Band-------------------------------------------------*/
 
+.band-page {
+    padding: 15px;
+}
+
+.biography {
+    background-color: #fafafa;
+}
+
 .top-left {
     float: left;
     margin: 0 15px 10px 0;
