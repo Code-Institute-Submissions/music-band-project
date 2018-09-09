@@ -23,6 +23,8 @@ Website will provide information about new album, music video and shows so peopl
     <li> I'm big fan of The Monkees and i want to have latest information so i can fill up subscribe form on "home page" and get latest news on my email.</li>
 </ul>
 
+<a href="https://balsamiq.cloud/stnfbfn/palwgoi/rD5D4">Wireframe</a>
+
 <h2>Features</h2>
 
 <h3>Existing Features</h3>
@@ -125,13 +127,12 @@ Website will provide information about new album, music video and shows so peopl
 </ul>
 <ul><h4>Video page</h4>
     <li>All videos working fine</li>
-</li>
+</ul>
 <ul><h4>Shows page</h4>
     <li>All links send you to ticket purchase in new window</li>
 </ul>
 <ul><h4>Photo page</h4>
-    <li>When page just loaded carouselle show 3 pictures in 3 rows</li>
-    <li>After pressing "next button" carouselle comming to normal</li>
+    <li>Carouselle working well in both ways</li>
 </ul>
 <ul><h4>Contact page</h4>
     <li>Try to submit the empty form and verify that an error message about the required fields appears</li>
@@ -139,26 +140,52 @@ Website will provide information about new album, music video and shows so peopl
     <li>When form filled up correctly success message is not appers</li>
 </ul>
 
+<h3>Browsers and devices</h3>
+
+<p>During the test on different devices and browsers no problems has been found.</p>
+
+<h3>Bugs</h3>
+
+<p>"Photos page" When page just loaded carouselle show 3 pictures in 3 rows but after pressing "next button" comming to normal</p>
+
 <h2>Deployment</h2>
 
-<p></p>
+<ol>
+    <li>Log in to GitHub</li>
+    <li>Go to my project page</li>
+    <li>Settings</li>
+    <li>Find GitHub section</li>
+    <li>Choose master branch</li>
+    <li>Press save</li>
+    <li>Done</li>
+    <li><a href="https://leon2ev.github.io/music-band-project/">My Music Band Website</a></li>
+</ol>
 
 <h2>Credits</h2>
 
 <h3>Content</h3>
 
-<ul>
-<li></li>
-</ul>
+Content from "band page" was copied from <a href="https://en.wikipedia.org/wiki/The_Monkees">Wikipedia</a>
 
 <h3>Media</h3>
 
-<ul>
-<li></li>
+<ul><h4>Photo used in this site were obtained from</h4>
+    <li><a href="https://foursquare.com/">Foursquare</a></li>
+    <li><a href="https://monkees.coolcherrycream.com/picturedb/albums/album-covers">monkees.coolcherrycream</a></li>
+    <li><a href="https://www.bbc.co.uk/music/artists/b8549efe-f4fd-4dc0-8ef1-226e9c400233">BBC</a></li>
+    <li><a href="https://github.com/Code-Institute-Org/project-assets/tree/master/stream-1/band-assets/images">CodeInstitute GitHub</a></li>
+</ul>
+<ul><h4>Music tracks used in this site were obtained from</h4>
+    <li><a href="https://github.com/Code-Institute-Org/project-assets/tree/master/stream-1/band-assets/images">CodeInstitute GitHub</a></li>
+</ul>
+<ul><h4>Video used in this site were obtained from</h4>
+    <li><a href="https://www.youtube.com/channel/UCv1oY0OLtsEySHeP1TkYNqA">The monkees</a></li>
+    <li><a href="https://www.youtube.com/channel/UCk6xyq1c4LnUeSwNz2FNzcQ">Monkees Live Almanac</a></li>
+    <li><a href="https://www.youtube.com/channel/UCVLk2mSIOj7JvYOtA_8dnpA">vivalabeat</a></li>
 </ul>
 
 <h3>Acknowledgements</h3>
 
 <ul>
-<li></li>
+    <li>I received inspiration for this project from <a href="https://bandzoogle.com/sample-band-sites"></a></li>
 </ul>
