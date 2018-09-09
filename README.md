@@ -165,7 +165,11 @@ Website will provide information about new album, music video and shows so peopl
 
 <h3>Content</h3>
 
-Content from "band page" was copied from <a href="https://en.wikipedia.org/wiki/The_Monkees">Wikipedia</a>
+<ul>
+    <li>Content for "welcome" section was copied from <a href="http://www.monkeesrule43.com/quotes_about_monks.html">Fan site</a></li>
+    <li>Content from "band page" was copied from <a href="https://en.wikipedia.org/wiki/The_Monkees">Wikipedia</a></li>
+</ul>
+
 
 <h3>Media</h3>
 
