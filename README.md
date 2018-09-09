@@ -48,12 +48,12 @@ Website will provide information about new album, music video and shows so peopl
 <h2>Technologies Used</h2>
 
 <ul>
-    <li>HTML
+    <li><a href="https://en.wikipedia.org/wiki/HTML5">HTML<a/>
         <ul>
             <li>To structure web pages.</li>
         </ul>
     </li>
-    <li>CSS
+    <li><a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets">CSS</a>
         <ul>
             <li>To add style to web pages.</li>
         </ul>
@@ -72,7 +72,18 @@ Website will provide information about new album, music video and shows so peopl
 
 <h2>Testing</h2>
 
-<p></p>
+<ul><h4>Navigation bar</h4>
+    <li>Brand button send you to homepage</li>
+    <li>All navigation buttons send you to right page</li>
+</ul>
+<ul><h4>Home page</h4>
+    <li>Welcome section
+       <ul>
+        <li>Music player working fine</li>
+        <li>More music button send to music page</li>
+        </ul> 
+    </li>
+</ul>
 
 <h2>Deployment</h2>
 
