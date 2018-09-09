@@ -442,5 +442,10 @@ form {
     .album-section {
         padding-right: 45px;
     }
+    .container-fluid .jumbotron {
+        margin-right: auto;
+        margin-left: auto;
+    }
+        
 }
 
