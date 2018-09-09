@@ -79,8 +79,31 @@ Website will provide information about new album, music video and shows so peopl
 <ul><h4>Home page</h4>
     <li>Welcome section
        <ul>
-        <li>Music player working fine</li>
-        <li>More music button send to music page</li>
+            <li>Music player working fine</li>
+            <li>More music button send to music page</li>
+        </ul> 
+    </li>
+    <li>Album section
+        <ul>
+            <li>Button send you to album purchase</li>
+        </ul> 
+    </li>
+    <li>Video section
+        <ul>
+            <li>Video player working fine</li>
+            <li>Buttton send you to video page</li>
+        </ul> 
+    </li>
+    <li>Ticket section
+        <ul>
+            <li>Purchase ticket open </li>
+            <li>More music button send to music page</li>
+        </ul> 
+    </li>
+    <li>Welcome section
+        <ul>
+            <li>Music player working fine</li>
+            <li>More music button send to music page</li>
         </ul> 
     </li>
 </ul>
