@@ -47,7 +47,28 @@ Website will provide information about new album, music video and shows so peopl
 
 <h2>Technologies Used</h2>
 
-<p></p>
+<ul>
+    <li>HTML
+        <ul>
+            <li>To structure web pages.</li>
+        </ul>
+    </li>
+    <li>CSS
+        <ul>
+            <li>To add style to web pages.</li>
+        </ul>
+    </li>
+    <li><a href="https://getbootstrap.com/docs/3.3/">Bootstrap</a>
+        <ul>
+            <li>I used it to make my website mobile responsive.</li>
+        </ul>
+    </li>
+    <li><a href="https://www.w3schools.com/">W3schools</a>
+        <ul>
+            <li>I used to see some code examples to solve my problems.</li>
+        </ul>
+    </li>
+</ul>
 
 <h2>Testing</h2>
 
