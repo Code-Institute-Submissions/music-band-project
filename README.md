@@ -79,7 +79,7 @@ Website will provide information about new album, music video and shows so peopl
 <ul><h4>Home page</h4>
     <li>Welcome section
        <ul>
-            <li>Music player working fine</li>
+            <li>Music player play music</li>
             <li>More music button send to music page</li>
         </ul> 
     </li>
@@ -91,21 +91,52 @@ Website will provide information about new album, music video and shows so peopl
     <li>Video section
         <ul>
             <li>Video player working fine</li>
-            <li>Buttton send you to video page</li>
+            <li>Button send you to video page</li>
         </ul> 
     </li>
     <li>Ticket section
         <ul>
-            <li>Purchase ticket open </li>
-            <li>More music button send to music page</li>
+            <li>Purchase ticket send you to ticket purhase in new window</li>
+            <li>Button send you to ticket page</li>
         </ul> 
     </li>
-    <li>Welcome section
+    <li>Photos
         <ul>
-            <li>Music player working fine</li>
-            <li>More music button send to music page</li>
+            <li>Carouselle working fine</li>
+            <li>Button send you to photo page</li>
         </ul> 
     </li>
+    <li>Subscribe form
+        <ul>
+            <li>Empty field not going true</li>
+            <li>Email address control working fine</li>
+            <li>When form filled up correctly success message is not appers</li>
+        </ul> 
+    </li>
+    <li>Social
+        <ul>
+            <li>Social links send you to social media in new window</li>
+        </ul> 
+    </li>
+</ul>
+<ul><h4>Music page</h4>
+    <li>All players play music</li>
+    <li>Button send you to album purchase in new window</li>
+</ul>
+<ul><h4>Video page</h4>
+    <li>All videos working fine</li>
+</li>
+<ul><h4>Shows page</h4>
+    <li>All links send you to ticket purchase in new window</li>
+</ul>
+<ul><h4>Photo page</h4>
+    <li>When page just loaded carouselle show 3 pictures in 3 rows</li>
+    <li>After pressing "next button" carouselle comming to normal</li>
+</ul>
+<ul><h4>Contact page</h4>
+    <li>Try to submit the empty form and verify that an error message about the required fields appears</li>
+    <li>Try to submit the form with an invalid email address and verify that a relevant error message appears</li>
+    <li>When form filled up correctly success message is not appers</li>
 </ul>
 
 <h2>Deployment</h2>
