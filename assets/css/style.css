@@ -404,6 +404,17 @@ form {
     text-align: center;
 }
 
+.req {
+    font-weight: 200;
+    font-size: 10px;
+    color: #b84f42;
+}
+
+.opt {
+  font-weight: 200;
+  font-size: 10px;  
+}
+
 /*-------------------------------------------------Media*/
 
 @media screen and (max-width: 667px) {

@@ -47,16 +47,41 @@
       </div>
       <form class="contact-form">
         <div class="form-group">
-          <label class="p-center" for="exampleInputName1">Name</label>
+          <label class="p-center" for="exampleInputName1">Name <span class="req">Required*</span></label>
           <input type="text" class="form-control" id="exampleInputName1" placeholder="Name" required>
         </div>
         <div class="form-group">
-          <label class="p-center" for="exampleInputEmail1">Email address</label>
-          <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email" required>
+          <label class="p-center" for="exampleInputPhone1">Phone <span class="req">Required*</span></label>
+          <input type="tel" class="form-control" id="exampleInputPhone1" placeholder="+123 456 7890" required>
         </div>
         <div class="form-group">
-          <label class="p-center">Message</label>
-          <textarea class="form-control"  rows="5" required></textarea>
+          <label class="p-center" for="exampleInputEmail1">Email address <span class="opt"> Optional</span></label>
+          <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
+        </div>
+        <p class="p-center">
+          For how many persons you planning make an event? Choose an option below:
+        </p>
+        <div class="radio p-center">
+          <label>
+            <input type="radio" name="optionsRadios" id="optionsRadios1" value="option1" checked>
+            Below 500 (private party / small club)
+          </label>
+        </div>
+        <div class="radio p-center">
+          <label>
+            <input type="radio" name="optionsRadios" id="optionsRadios2" value="option2">
+            500-2000 (night club)
+          </label>
+        </div>
+        <div class="radio p-center">
+          <label>
+            <input type="radio" name="optionsRadios" id="optionsRadios3" value="option3">
+            2000+ (big arena)
+          </label>
+        </div>
+        <div class="form-group">
+          <label class="p-center">Additional Details <span class="opt">Optional</span></label>
+          <textarea class="form-control"  rows="5"></textarea>
         </div>
         <button type="submit" class="btn btn-primary">Submit</button>
       </form>
