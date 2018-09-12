@@ -208,6 +208,14 @@ body {
     color: #fafafa;
 }
 
+.navbar-default .navbar-brand:hover {
+    color: #b84f42;
+    transition: 0.3s ease-in-out;
+    -webkit-transition: 0.3s ease-in-out;
+    -moz-transition: 0.3s ease-in-out;
+    -o-transition: 0.3s ease-in-out;
+}
+
 /*-------------------------------------------------Section home*/
 
 /*Album section-------------------------------------------------*/
