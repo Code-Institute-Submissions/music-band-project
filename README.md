@@ -44,7 +44,6 @@ Website will provide information about new album, music video and shows so peopl
 <ul>
     <li>Music page - i would like to add all albums with possibility to play tracks and purchase them one by one or whole album straight away from the site.</li>
     <li>Music player - make it smaller and add possibility to change tracks and play music on background so person can listen music and research website.</li>
-    <li>Photo page - i would like to make collage with possibility to open them in full size.</li>
 </ul>
 
 <h2>Technologies Used</h2>
@@ -65,9 +64,9 @@ Website will provide information about new album, music video and shows so peopl
             <li>I used it to make my website mobile responsive.</li>
         </ul>
     </li>
-    <li><a href="https://www.w3schools.com/">W3schools</a>
+    <li><a href="https://jquery.com/">jQuery</a>
         <ul>
-            <li>I used to see some code examples to solve my problems.</li>
+            <li>The project uses JQuery to simplify DOM manipulation.</li>
         </ul>
     </li>
 </ul>
@@ -158,7 +157,9 @@ Website will provide information about new album, music video and shows so peopl
     <li>Choose master branch</li>
     <li>Press save</li>
     <li>Done</li>
-    <li><a href="https://leon2ev.github.io/music-band-project/">My Music Band Website</a></li>
+    <li>
+        <a href="https://leon2ev.github.io/music-band-project/">My Music Band Website</a>
+    </li>
 </ol>
 
 <h2>Credits</h2>
@@ -166,30 +167,58 @@ Website will provide information about new album, music video and shows so peopl
 <h3>Content</h3>
 
 <ul>
-    <li>Content for "welcome" section was copied from <a href="http://www.monkeesrule43.com/quotes_about_monks.html">Fan site</a></li>
-    <li>Content from "band page" was copied from <a href="https://en.wikipedia.org/wiki/The_Monkees">Wikipedia</a></li>
+    <li>Content for "welcome" section was copied from 
+        <a href="http://www.monkeesrule43.com/quotes_about_monks.html">Fan site</a>
+    </li>
+    <li>Content from "band page" was copied from 
+        <a href="https://en.wikipedia.org/wiki/The_Monkees">Wikipedia</a>
+    </li>
+    <li>Some code tips and examples taken from
+        <a href="https://www.w3schools.com/">W3schools</a>
+    </li>
 </ul>
 
 
 <h3>Media</h3>
 
 <ul><h4>Photo used in this site were obtained from</h4>
-    <li><a href="https://foursquare.com/">Foursquare</a></li>
-    <li><a href="https://monkees.coolcherrycream.com/picturedb/albums/album-covers">monkees.coolcherrycream</a></li>
-    <li><a href="https://www.bbc.co.uk/music/artists/b8549efe-f4fd-4dc0-8ef1-226e9c400233">BBC</a></li>
-    <li><a href="https://github.com/Code-Institute-Org/project-assets/tree/master/stream-1/band-assets/images">CodeInstitute GitHub</a></li>
+    <li>
+        <a href="https://foursquare.com/">Foursquare</a>
+    </li>
+    <li>
+        <a href="https://monkees.coolcherrycream.com/picturedb/albums/album-covers">monkees.coolcherrycream</a>
+    </li>
+    <li>
+        <a href="https://www.bbc.co.uk/music/artists/b8549efe-f4fd-4dc0-8ef1-226e9c400233">BBC</a>
+    </li>
+    <li>
+        <a href="https://github.com/Code-Institute-Org/project-assets/tree/master/stream-1/band-assets/images">CodeInstitute GitHub</a>
+    </li>
+    <li>
+        <a href="https://mashable.com/2016/02/05/monkees-new-album-tour/">Mashable</a>
+    </li>
 </ul>
 <ul><h4>Music tracks used in this site were obtained from</h4>
-    <li><a href="https://github.com/Code-Institute-Org/project-assets/tree/master/stream-1/band-assets/images">CodeInstitute GitHub</a></li>
+    <li>
+        <a href="https://github.com/Code-Institute-Org/project-assets/tree/master/stream-1/band-assets/images">CodeInstitute GitHub</a>
+    </li>
 </ul>
 <ul><h4>Video used in this site were obtained from</h4>
-    <li><a href="https://www.youtube.com/channel/UCv1oY0OLtsEySHeP1TkYNqA">The monkees</a></li>
-    <li><a href="https://www.youtube.com/channel/UCk6xyq1c4LnUeSwNz2FNzcQ">Monkees Live Almanac</a></li>
-    <li><a href="https://www.youtube.com/channel/UCVLk2mSIOj7JvYOtA_8dnpA">vivalabeat</a></li>
+    <li>
+        <a href="https://www.youtube.com/channel/UCv1oY0OLtsEySHeP1TkYNqA">The monkees</a>
+    </li>
+    <li>
+        <a href="https://www.youtube.com/channel/UCk6xyq1c4LnUeSwNz2FNzcQ">Monkees Live Almanac</a>
+    </li>
+    <li>
+        <a href="https://www.youtube.com/channel/UCVLk2mSIOj7JvYOtA_8dnpA">vivalabeat</a>
+    </li>
 </ul>
 
 <h3>Acknowledgements</h3>
 
 <ul>
-    <li>I received inspiration for this project from <a href="https://bandzoogle.com/sample-band-sites"></a></li>
+    <li>I received inspiration for this project from 
+        <a href="https://bandzoogle.com/sample-band-sites"></a>
+    </li>
 </ul>
