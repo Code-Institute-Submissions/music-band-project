@@ -64,9 +64,9 @@ Website will provide information about new album, music video and shows so peopl
             <li>I used it to make my website mobile responsive.</li>
         </ul>
     </li>
-    <li><a href="https://jquery.com/">jQuery</a>
+    <li><a href=https://fancyapps.com/fancybox/3/docs/>Fancybox</a>
         <ul>
-            <li>The project uses JQuery to simplify DOM manipulation.</li>
+            <li>I used it for photo page</li>
         </ul>
     </li>
 </ul>
@@ -219,6 +219,6 @@ Website will provide information about new album, music video and shows so peopl
 
 <ul>
     <li>I received inspiration for this project from 
-        <a href="https://bandzoogle.com/sample-band-sites"></a>
+        <a href="https://bandzoogle.com/sample-band-sites">Bandzoogle</a>
     </li>
 </ul>
