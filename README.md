@@ -143,10 +143,6 @@ Website will provide information about new album, music video and shows so peopl
 
 <p>During the test on different devices and browsers no problems has been found.</p>
 
-<h3>Bugs</h3>
-
-<p>"Photos page" When page just loaded carouselle show 3 pictures in 3 rows but after pressing "next button" comming to normal</p>
-
 <h2>Deployment</h2>
 
 <ol>
